@@ -1,0 +1,39 @@
+body {
+    background-color: #f6f6f6;
+}
+
+form {
+    width: 350px;
+}
+.input-group > .form-control {
+  color: #03a9f4;
+  
+}
+.input-group input[type='submit']{
+    color: #fff;
+}
+
+.bg-google {
+    color: #fff;
+    background-color: #f95237;
+}
+
+.bg-facebook {
+    background-color: #3753a1;
+    color: #fff;
+}
+
+.text-divider {
+    text-align: center;
+    width: 100%;
+    height: 2px;
+    border: 1px solid #dddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-divider>span {
+    background-color: #f6f6f6;
+    padding: 0 5px;
+}
